@@ -1,0 +1,11 @@
+origin,leads,conversions,conversion_rate,channel_type
+unknown,1099,179,16.287534121929028,Untracked / Direct Outbound
+paid_search,1586,195,12.295081967213115,High-Intent Inbound
+organic_search,2296,271,11.803135888501743,High-Intent Inbound
+direct_traffic,499,56,11.22244488977956,High-Intent Inbound
+referral,284,24,8.450704225352112,High-Intent Inbound
+social,1350,75,5.555555555555555,Passive Outreach
+display,118,6,5.084745762711865,Passive Outreach
+other_publicities,65,3,4.615384615384616,Passive Outreach
+email,493,15,3.0425963488843815,Passive Outreach
+other,150,4,2.666666666666667,Passive Outreach

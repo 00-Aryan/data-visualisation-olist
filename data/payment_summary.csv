@@ -1,0 +1,5 @@
+payment_type,transactions,total_value,average_value,label
+debit_card,1529,217989.79,142.57017004578157,R$ 218k (1.4%) | AOV: R$ 142.6
+voucher,5775,379436.87,65.70335411255411,R$ 379k (2.4%) | AOV: R$ 65.7
+boleto,19784,2869361.27,145.03443540234534,R$ 2.87M (17.9%) | AOV: R$ 145.0
+credit_card,76795,12542084.19,163.31902063936454,R$ 12.54M (78.3%) | AOV: R$ 163.3

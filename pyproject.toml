@@ -1,0 +1,22 @@
+[project]
+name = "data-visualisation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "00-Aryan", email = "22f2000697@ds.study.iitm.ac.in" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "dash>=4.4.1",
+    "dash-bootstrap-components>=2.0.4",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+]
+
+[project.scripts]
+data-visualisation = "data_visualisation:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
